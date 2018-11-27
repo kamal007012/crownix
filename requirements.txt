@@ -1,0 +1,5 @@
+python -m pip install bs4
+python -m pip install lxml
+python -m pip install urllib3
+python -m pip install win_unicode_console
+python -m pip install colorama
